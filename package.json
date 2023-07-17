@@ -1,0 +1,8 @@
+{
+    "name": "jp.vmelville.particle-sim-unity",
+    "author": "Melville",
+    "version": "0.1.0",
+    "displayName": "Particle Sim",
+    "description": "ParticleSimUnity is a package for particle physics simulation in Unity, utilizing Geant4.",
+    "unity": "2020.3"
+}
